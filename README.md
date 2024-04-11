@@ -17,3 +17,13 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+
+##CAPTURAS
+
+![image](https://github.com/SanchezB128/UII_Act5_Disenos/assets/143743573/5cf30c53-3bc9-4cab-affd-b2dcb8deb1bf)
+![image](https://github.com/SanchezB128/UII_Act5_Disenos/assets/143743573/41affe11-aaa6-4776-8083-63320f80e5de)
+
+
+##lINK REFERENCIA
+showModalBottomSheet
